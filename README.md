@@ -1,6 +1,5 @@
 # Brisbane-City-Bike
-Performing a clustering based on the location of bike stations in Brisbane
-
+Performing a clustering based on the location of bike stations in Brisbane (Python3)
 
 First five lines of Brisbane_CityBike.json file: 
 
