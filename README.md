@@ -16,6 +16,8 @@ The K-means algorithm has a major drawback: it's necessary to provide the requir
 As it's possible to verify at the picture above, the optimal number of clusters for the bike station is 3. 
 
 
+With the number of clusters it's was possible to divide the bike stations in 3 clusters. To do that the function KMeans (avaliable in sklearn library) was used.
 
+The results can be observed in the picture bellow:
 
 ![clusters](https://user-images.githubusercontent.com/39279175/53047878-b13e5580-3493-11e9-9d6b-1e6a996779cf.PNG)
